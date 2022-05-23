@@ -7,7 +7,7 @@ The design of the user interface of this project, and its main purpose are inspi
 
 ## Latest Updates
 
-- It is now possible to set several roots directories instead of just one.
+- It is now possible to set several root directories instead of just one.
 
 - When applying a pose from the library, you can choose to blend it with the current pose. The pose used as 'current pose' is the one set in the scene at the moment you move the slider for the first time. If you modify the pose in the scene, to take it into account as the current pose, you will have to select another item in the library and select again the pose you need to reset the 'current pose'. 
 <p align="center">
